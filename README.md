@@ -3,29 +3,18 @@
 # A drone and helicopter simulator featuring six missions using various vehicles and incorporating all modern features.
 # Play => https://shainiuk-mykola.itch.io/drone-simulator
 
-🛠 Technologies
-
-• Unity
-
-• C#
-
-• Unity AI / NavMesh
-
-• DOTween
-
-• Addressables
-
-• Cloud content delivery
-
-• Zenject
-
-• Unitask
-
-• Remote config
-
-• Analytics
-
-• Editor tools
+# 🛠 Technologies
+* Unity
+* C#
+* Unity AI / NavMesh
+* DOTween
+* Addressables
+* Cloud content delivery
+* Zenject
+*Unitask
+*Remote config
+*Analytics
+*Editor tools
 
 ✨ Features
 
