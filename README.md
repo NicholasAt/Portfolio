@@ -1,7 +1,8 @@
-# Solo project — developed entirely by me
-# A drone and helicopter simulator featuring six missions using various vehicles and incorporating all modern features.
-# To launch it in Unity, find the "init" scene.
-# Play => https://shainiuk-mykola.itch.io/drone-simulator
+# About
+* Solo project — developed entirely by me
+* A drone and helicopter simulator featuring six missions using various vehicles and incorporating all modern features.
+* To launch it in Unity, find the "init" scene.
+* Play => https://shainiuk-mykola.itch.io/drone-simulator
 
 # 🛠 Technologies
 * Unity
