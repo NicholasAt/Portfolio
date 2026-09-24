@@ -1,4 +1,3 @@
-# Simple Game Project 
 # To launch it in Unity, find the "init" scene.
 # A drone and helicopter simulator featuring six missions using various vehicles and incorporating all modern features.
 # Play => https://shainiuk-mykola.itch.io/drone-simulator
@@ -17,20 +16,13 @@
 *Editor tools
 
 ✨ Features
-
-• Vast, seamlessly loading world
-
-• Off-Screen Target-Indicators
-
-• AI system for enemy bots
-
-• Quests system
-
-• Sounds, animations
-
-• Save / load progression system
-
-• Vehicle handling (custom physics, not AI-driven)
+*Vast, seamlessly loading world
+*Off-Screen Target-Indicators
+*AI system for enemy bots
+*Quests system
+*Sounds, animations
+*Save / load progression system
+*Vehicle handling (custom physics, not AI-driven)
 
 • Adaptive UI
 
