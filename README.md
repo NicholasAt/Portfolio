@@ -1,30 +1,24 @@
 # 🎮 About
 * Solo project — developed entirely by me.
-* A drone and helicopter simulator featuring six missions using various vehicles and incorporating all modern features.
-* To launch it in Unity editor, find the "init" scene.
-* Play => https://shainiuk-mykola.itch.io/drone-simulator
+* An engaging platformer where you must dodge various obstacles; the game features 9 diverse levels..
+* To launch it in Unity editor, find the "Initial" scene.
+* Play => https://shainiuk-mykola.itch.io/super-cutlet
 
 # 🛠 Technologies
 * Unity
 * C#
-* Unity AI / NavMesh
-* DOTween
 * Addressables
-* Cloud content delivery
-* Zenject
 * Unitask
 * Remote config
 * Analytics
 * Editor tools
 
 # ✨ Features
-* Vast, seamlessly loading world
-* Off-Screen Target-Indicators
-* AI system for enemy bots
-* Quests system
+* Ability to climb walls
+* Moving obstacles
+* Level timer
 * Sounds, animations
 * Save / load progression system
-* Vehicle handling (custom physics, not AI-driven)
 * Adaptive UI
 * Performance optimization
 
